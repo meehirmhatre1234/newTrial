@@ -1,0 +1,33 @@
+body {
+  background-color: #ffaaa5;
+  text-align:center;
+}
+
+hr {
+  border-color: grey;
+  background-color: #ffaaa5;
+  border-style: dotted none none;
+  width: 10%;
+  border-width: 6px
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1{
+  color: #fcf8f3;
+}
+
+h2{
+  color: #fcf8f3;
+}
+
+h3{
+  color: #fcf8f3;
+}
+
+a{
+  color: #fcf8f3;
+}
